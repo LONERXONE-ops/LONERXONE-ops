@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+<defs><radialGradient id="g" cx="0.5" cy="0.56" r="0.55"><stop offset="0" stop-color="#D7FF3A" stop-opacity="0.20"/><stop offset="0.6" stop-color="#D7FF3A" stop-opacity="0.04"/><stop offset="1" stop-color="#D7FF3A" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#161614"/></pattern></defs>
+<rect width="1024" height="1024" fill="#050505"/>
+<rect width="1024" height="1024" fill="url(#dots)"/>
+<rect width="1024" height="1024" fill="url(#g)"/>
+<rect x="394.0" y="214" width="236" height="66" rx="33" fill="#000" stroke="#2C2C29" stroke-width="3"/>
+<circle cx="438.0" cy="247" r="11" fill="#D7FF3A"/>
+<rect x="468.0" y="241" width="120" height="12" rx="6" fill="#2A2A27"/>
+<path d="M241.7 730.0H469.0V654.3H331.1V409.8H241.7Z" fill="#F4F4F2" />
+<path d="M473.2 730.0H574.2L610.9 675.0C619.8 661.8 627.9 648.7 636.1 635.6C644.2 648.7 652.4 661.8 660.8 675.0L695.6 730.0H799.4L686.4 563.9L786.9 409.8H688.7L662.7 451.5C653.9 465.5 645.5 479.7 637.4 493.6C629.2 479.7 621.0 465.5 612.4 451.5L586.9 409.8H486.1L588.6 566.2Z" fill="#D7FF3A" />
+</svg>
