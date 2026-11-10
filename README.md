@@ -12,7 +12,7 @@
 
 I'm a software developer from Lagos, Nigeria. I design and build Android apps, full-stack web platforms and games, and I take products all the way from database schema to the last pixel of UI.
 
-My flagship product, **[Kredilo](https://kredilo.com.ng)**, is live in production with real users. Alongside it I'm building **Halo**, a dynamic island for Android, and **Bright Hearts RPG**, a co-op pixel art game.
+My flagship product, **[Kredilo](https://kredilo.com.ng)**, is live in production with real users, and **[AniRec](https://anirec-ochre.vercel.app/)**, an anime discovery platform, is live too. Alongside them I'm building **Halo**, a dynamic island for Android, and **Bright Hearts RPG**, a co-op pixel art game.
 
 - **Focus:** Android (Kotlin), full-stack TypeScript, game development
 - **Currently:** growing Kredilo, building Halo and Bright Hearts RPG
@@ -39,10 +39,12 @@ My flagship product, **[Kredilo](https://kredilo.com.ng)**, is live in productio
   <a href="https://github.com/LONERXONE-ops/Bright-hearts-RPG"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-bright-hearts-dark.svg"><img src="./assets/card-bright-hearts-light.svg" width="49.5%" alt="Bright Hearts RPG. Co-op pixel art fantasy RPG."></picture></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-anirec-dark.svg">
-  <img src="./assets/card-anirec-light.svg" width="100%" alt="AniRec. Anime discovery platform, in development.">
-</picture>
+<a href="https://anirec-ochre.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-anirec-dark.svg">
+    <img src="./assets/card-anirec-light.svg" width="100%" alt="AniRec. Anime discovery platform, live at anirec-ochre.vercel.app.">
+  </picture>
+</a>
 
 <br><br>
 
